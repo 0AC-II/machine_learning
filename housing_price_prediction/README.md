@@ -33,6 +33,8 @@ Variables include:
 
 - Sale conditions and final SalePrice
 
+  You can find the data dictionary here: https://jse.amstat.org/v19n3/decock/DataDocumentation.txt 
+
 ## Methodology
 
 The workflow includes:
