@@ -62,3 +62,13 @@ Future improvements may include feature engineering, handling zero-inflated valu
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## Project Progression
+
+This repository contains two notebooks:
+
+1. **Baseline Logistic Regression**  
+   Establishes a simple, interpretable baseline model.
+
+2. **Improving Logistic Regression**  
+   Demonstrates how preprocessing, class balancing, scaling, and regularization can improve model reliability and interpretability without changing algorithms.
